@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Sounds>
+	<General>
+		<!-- Thompson 1928 single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Single" volume="1.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_thompson1928_single_1.ogg</Wave>
+		</Sound>
+		<!-- Thompson 1928 burst fire -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Burst" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_thompson1928_burst_1.ogg</Wave>
+		</Sound>
+		<!-- Winmag single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Winmag Single" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_winmag_single_1.ogg</Wave>
+		</Sound>
+		<!-- Dolt 46 single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Single" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_dolt46_single_1.ogg</Wave>
+			<Wave>audio/sfx/weapons/weapon_dolt46_single_2.ogg</Wave>
+		</Sound>
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Burst" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_dolt46_burst_1.ogg</Wave>
+		</Sound>
+	</General>
+</Sounds>

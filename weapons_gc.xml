@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Weapons>
+	<!-- Thompson sub-machine gun -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.thompson1928" bulletType="normal" emptySound="Empty Click 1">
+		<props range="25" hands="2" recoil="0" weight="5" isHeavy="0" clipSize="100" reloadAPCost="25" reloadSound="Weapon Machinegun Reload" reactionModifier="1" />
+		<SingleShot sound="Weapon Thompson1928 Single" delay="0.6" suppressionValue="30" suppressionRadius="1">
+			<Set1 ap="28" accuracy="40" />
+			<Set2 ap="60" accuracy="70" />
+			<Set3 ap="60" accuracy="70" />
+		</SingleShot>
+		<BurstFire ap="38" accuracy="55" sound="Weapon Thompson1928 Burst" delay="0.6" burstdelay="0.1" shotCount="25" suppressionValue="200" suppressionRadius="3" />
+		<GUIImage name="gui/weapons/thompson1928.png"/>
+		<GroundImage name="grounditemimages/ballistic_ak.png"/>
+		<Ammos>
+			<Ammo name="ammo.ballistic.thompson1928" type="kinetic" damage="20" mitigation="0">
+				<Projectile spectre="projectiles/bullet/bullet" speed="2500" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+	<!-- Dolt 46 -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.dolt46" bulletType="normal" emptySound="Empty Click 1">
+		<props range="50" hands="1" recoil="0" weight="1" isHeavy="0" clipSize="7" reloadAPCost="15" reloadSound="Weapon Pistol Reload" reactionModifier="1.5" />
+		<SingleShot sound="Weapon Dolt46 Single" delay="0.6" suppressionValue="50" suppressionRadius="1.5">
+			<Set1 ap="15" accuracy="100" />
+			<Set2 ap="30" accuracy="200" />
+			<Set3 ap="30" accuracy="300" />
+		</SingleShot>
+		<BurstFire ap="30" accuracy="75" sound="Weapon Dolt46 Burst" delay="0.6" burstdelay="0.3" shotCount="3" suppressionValue="70" suppressionRadius="1.5" />
+		<GUIImage name="gui/weapons/dolt46.png"/>
+		<GroundImage name="grounditemimages/ballistic_pistol.png"/>
+		<Ammos>
+			<Ammo name="ammo.ballistic.dolt46" type="kinetic" damage="70" mitigation="0">
+				<Projectile spectre="projectiles/bullet/bullet" speed="3000" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+	<!-- Winmag -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.winmag" bulletType="normal" emptySound="Empty Click 1">
+		<props range="50" hands="2" recoil="0" weight="5" isHeavy="0" clipSize="8" reloadAPCost="15" reloadSound="Weapon Precision Rifle Reload" reactionModifier="0.5" />
+		<SingleShot sound="Weapon Winmag Single" delay="0.6" suppressionValue="50" suppressionRadius="1">
+			<Set1 ap="15" accuracy="100" />
+			<Set2 ap="30" accuracy="200" />
+			<Set3 ap="30" accuracy="300" />
+		</SingleShot>
+		<GUIImage name="gui/weapons/winmag.png"/>
+		<GroundImage name="grounditemimages/ballistic_rifle.png"/>
+		<Ammos>
+			<Ammo name="ammo.ballistic.winmag" type="kinetic" damage="256" mitigation="0">
+				<Projectile spectre="projectiles/bullet/bullet" speed="4500" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+</Weapons>

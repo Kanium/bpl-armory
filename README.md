@@ -1,2 +1,2 @@
-# bpl-armory
-Beeple Labs armory
+# Beeple Labs Armory
+Presenting: Beeple Labs Armory

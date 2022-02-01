@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Ammos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.thompson1928">
+        <stockTextureName>weapons/ballistic/thompson1928_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/thompson1928_ammo</dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.winmag">
+        <stockTextureName>weapons/ballistic/458_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/458_ammo</dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.dolt46">
+        <stockTextureName>weapons/ballistic/dolt46_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/dolt46_ammo</dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+</Ammos>
