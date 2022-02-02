@@ -187,9 +187,9 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapon.grenade.snowshovel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/stunbaton_small</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/snowshovel_small</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/stunbaton_small</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/snowshovel_small</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">ballistic</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>

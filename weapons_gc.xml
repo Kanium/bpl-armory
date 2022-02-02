@@ -53,4 +53,20 @@
 			</Ammo>
 		</Ammos>
 	</Weapon>
+	<!-- Tactical Snow-shovel -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.snowshovel" bulletType="melee" emptySound="Empty Click 1">
+		<props range="1000" hands="1" recoil="0" weight="2" isHeavy="0" clipSize="100" isMelee="1" reloadAPCost="20" reloadSound="Weapon Stun Baton Reload" />
+		<SingleShot MODMERGE="insert" sound="Weapon Snowshovel Single" delay="1" suppressionValue="0" suppressionRadius="1.5">
+		  <Set1 ap="30" accuracy="200" />
+		</SingleShot>
+		<BurstFire/>
+		<GUIImage name="gui/weapons/snowshovel_small.png"/>
+		<GroundImage name="grounditemimages/misc_stunbaton.png"/>
+		<Ammos>
+		  <Ammo MODMERGE="insert" name="ammo.none" type="kinetic" damage="0" stunDamage="30" mitigation="30">
+			<Projectile/>
+			<Impact/>
+		  </Ammo>
+		</Ammos>
+	</Weapon>
 </Weapons>
