@@ -154,7 +154,18 @@
     <Cell><Data ss:Type="String">.458 Ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
-
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.snowshovel</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Snow Shovel</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.snowshovel.desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Shock Baton:&lt;/b&gt;&#10;&#10;Electrically charged melee weapon which delivers non-lethal shocks to subdue the target.  More dangerous to use than other non-lethal weapons due to the necessity of closing on the target, it is nevertheless more reliable as attacks will not miss.&#10;&#10;Range:                                Melee&#10;Damage:                             30 Stun (Energy)&#10;Mitigation:                           30&#10;Suppression:                       0&#10;&#10;Attack Cost:                       30%% TUs</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Unsynced/>
