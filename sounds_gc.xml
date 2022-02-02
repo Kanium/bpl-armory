@@ -24,6 +24,7 @@
 		<!-- Tactical Snowshovel single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Snowshovel Single" volume="1.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_snowshovel_single_1.ogg</Wave>
+			<Wave>audio/sfx/weapons/weapon_snowshovel_single_2.ogg</Wave>
 		</Sound>
 	</General>
 </Sounds>
