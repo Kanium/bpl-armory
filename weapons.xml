@@ -191,7 +191,7 @@
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/snowshovel_small</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ballistic</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">energy</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Boolean">0</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -209,7 +209,7 @@
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ammo.ballistic.none</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ammo.ballistic.snowshovel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
     <Cell ss:Index="16" ss:StyleID="s69"><Data ss:Type="String">Other</Data></Cell>
