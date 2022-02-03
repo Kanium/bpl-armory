@@ -216,8 +216,8 @@
    </Row>
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapon.bomblance</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/ballistic/rocketlauncher</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/ballistic/rocketlauncher</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/ballistic/bomblance</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/ballistic/bomblance</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">ballistic</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Boolean">1</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">0</Data></Cell>
@@ -235,7 +235,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapon.rocket.bombrod</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/bombrod</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/bombrod</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">incendiary</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ballistic</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Boolean">0</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">75</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">36</Data></Cell>

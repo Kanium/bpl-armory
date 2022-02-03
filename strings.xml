@@ -175,25 +175,25 @@
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.bomblance</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Bomblance</Data><NamedCell
+    <Cell><Data ss:Type="String">The BPL Bomb Lance</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.bomblance.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Bomblance:&lt;/b&gt;&#10;&#10;"Label says H. Melville, think its worth anything?" - Beeple Labs employee</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The BPL Bomb Lance:&lt;/b&gt;&#10;&#10;"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.bombrod</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Frag Rocket</Data><NamedCell
+    <Cell><Data ss:Type="String">Lance, Bomb</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.bombrod.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Bomb Rod:&lt;/b&gt;&#10;&#10;A metal rod filled with black powder, not unsafe</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Lance, Bomb:&lt;/b&gt;&#10;&#10;Made of Iron, filled with mysterious powder, and sizzling</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
   </Table>
