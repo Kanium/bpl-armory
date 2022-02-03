@@ -22,8 +22,8 @@
         <weight>1</weight>
     </Ammo>
     <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.snowshovel">
-        <stockTextureName>weapons/ballistic/thompson1928_ammo</stockTextureName>
-        <dragTextureName>weapons/ballistic/thompson1928_ammo</dragTextureName>
+        <stockTextureName>weapons/ballistic/snowshovel_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/snowshovel_ammo</dragTextureName>
         <slotsizex>1</slotsizex>
         <slotsizey>1</slotsizey>
         <weight>1</weight>
