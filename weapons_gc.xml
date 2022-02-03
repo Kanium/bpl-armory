@@ -72,7 +72,7 @@
 	<!-- Bomb Lance -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.bomblance" bulletType="rocket" emptySound="Empty Click 1">
 		<props range="18" hands="2" recoil="100" weight="3" isHeavy="0" clipSize="1" reloadAPCost="20" reloadSound="Weapon Rocket Launcher Reload" strengthLimited="0" reactionModifier="0.5"  disableReactionFire="1" disableDamageScaling="1" />
-		<SingleShot MODMERGE="insert" sound="Weapon Rocketlauncher Single" delay="0.7" suppressionValue="200" suppressionRadius="7">
+		<SingleShot MODMERGE="insert" sound="Weapon Rocketlauncher Single" delay="0.7" suppressionValue="100" suppressionRadius="7">
 			<Set1 ap="30" accuracy="50" />
 			<Set2 ap="60" accuracy="100" />
 		</SingleShot>
@@ -81,7 +81,7 @@
 		<Ammos>
 			<Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.rocket.bombrod" type="ballistic"  damage="95" stunDamage="0" mitigation="0" isOverdamage="1">
 				<Projectile spectre="projectiles/rocket" speed="1000" showAfterDistance="60.0"/>
-				<Impact spectre="particles/explosion/explosion" radius="10" sound="Weapon Frag Grenade" fireChance="90" smokeChance="90" gasType="GrenadeFragSmoke" />
+				<Impact spectre="particles/explosion/explosion" radius="4" sound="Weapon Frag Grenade" fireChance="90" smokeChance="90" gasType="GrenadeFragSmoke" />
 			</Ammo>
 		</Ammos>
 	</Weapon>
