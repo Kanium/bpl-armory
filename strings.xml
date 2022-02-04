@@ -200,7 +200,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.700express.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Winmag:&lt;/b&gt;&#10;&#10;Tex made this and nobody knows why, he wont stop laughing.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The 700:&lt;/b&gt;&#10;&#10;Made in England out of metal you can't afford, and wood that looks too nice to handle</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
   <Row ss:AutoFitHeight="0">
