@@ -28,4 +28,11 @@
         <slotsizey>1</slotsizey>
         <weight>1</weight>
     </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.700nitroexpress">
+        <stockTextureName>weapons/ballistic/700_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/700_ammo</dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
 </Ammos>

@@ -18,6 +18,7 @@
 			<Wave>audio/sfx/weapons/weapon_dolt46_single_1.ogg</Wave>
 			<Wave>audio/sfx/weapons/weapon_dolt46_single_2.ogg</Wave>
 		</Sound>
+		<!-- Dolt 46 burst shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Burst" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_dolt46_burst_1.ogg</Wave>
 		</Sound>
@@ -26,9 +27,13 @@
 			<Wave>audio/sfx/weapons/weapon_snowshovel_single_1.ogg</Wave>
 			<Wave>audio/sfx/weapons/weapon_snowshovel_single_2.ogg</Wave>
 		</Sound>
-        <!-- Winmag single shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Winmag Single" volume="2.0" group="1" comment="">
-			<Wave>audio/sfx/weapons/weapon_winmag_single_1.ogg</Wave>
+        <!-- The Express single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700express Single" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_theexpress_single_1.ogg</Wave>
+		</Sound>
+		<!-- The Express burst shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700express Burst" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_theexpress_burst_1.ogg</Wave>
 		</Sound>
 	</General>
 </Sounds>
