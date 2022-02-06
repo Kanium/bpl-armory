@@ -209,6 +209,19 @@
     <Cell><Data ss:Type="String">.700 Ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.50calbat.desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;.50 Cal Bat:&lt;/b&gt;&#10;&#10;We gave researchers battle powder and put them in a stocked toolshed. This is the result.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   </Row>
+    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ammo.ballistic.50calbat</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Bat</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+  </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Unsynced/>
