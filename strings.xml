@@ -102,14 +102,15 @@
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">1928 Thompson</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-  </Row>        
-  </Row>
+  </Row>    
+
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.thompson1928.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;1928 Thompson:&lt;/b&gt;&#10;&#10;The Model 1928 was the first type widely used by military forces, with the U.S. Navy and U.S. Marine Corps as major buyers through the 1930s. Myah! See??</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+
   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ammo.ballistic.thompson1928</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -122,118 +123,120 @@
     <Cell><Data ss:Type="String">Dolt 46</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>        
-  </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="285">
+
+  <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.dolt46.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Dolt 46:&lt;/b&gt;&#10;&#10;"Best alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+
   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ammo.ballistic.dolt46</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">.46 Ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
-    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.dolt46</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Dolt 46</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-  </Row>        
-  </Row>
+
+
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.winmag.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Winmag:&lt;/b&gt;&#10;&#10;Tex made this and nobody knows why, he wont stop laughing.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+
   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ammo.ballistic.winmag</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">.458 Ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.snowshovel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Space Age Shovel, Black</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
+
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.snowshovel.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Space Age Shovel, Black:&lt;/b&gt;&#10;&#10;A Space age shovel made of space age black metal which is certainly not plastic painted metallic black. These cost a fortune to make.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-    <Row ss:AutoFitHeight="0">
+
+  <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ammo.ballistic.snowshovel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Snowshovel blade</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
-    <Row ss:AutoFitHeight="0">
+
+  <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.bomblance</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">The BPL Bomb Lance</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+  </Row>
+  
+  <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.bomblance.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The BPL Bomb Lance:&lt;/b&gt;&#10;&#10;"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-    <Row ss:AutoFitHeight="0">
+
+  <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.bombrod</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Lance, Bomb</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
+
+  <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.bombrod.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Lance, Bomb:&lt;/b&gt;&#10;&#10;Made of Iron, filled with mysterious powder, and sizzling</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-  </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="285">
+
+  <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.700express.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The 700:&lt;/b&gt;&#10;&#10;Made in England out of metal you can't afford, and wood that looks too nice to handle</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+
   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ammo.ballistic.700nitroexpress</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">.700 Ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.50calbat</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">.50 Bat</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.50calbat.desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;.50 Bat:&lt;/b&gt;&#10;&#10;The eventual result of putting engineers and researchers into a stocked workshop with 6 months supply of pizza and battlepowder.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.50calbat</Data><NamedCell
+    <Cell><Data ss:Type="String">ammo.ballistic.snowshovel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">The .50 Bat</Data><NamedCell
+    <Cell><Data ss:Type="String">Snowshovel blade</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.50calbat.desc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;.50 Bat:&lt;/b&gt;&#10;&#10;We gave researchers battle powder and put them in a stocked toolshed. This is the result.</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.50cal_ammo</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Lance, Bomb</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.50cal_ammo.desc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;.50 Cal Bat:&lt;/b&gt;&#10;&#10;KABOOM</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   
+  </Row>
+
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Unsynced/>

@@ -279,7 +279,7 @@
     <Cell ss:Index="16"><Data ss:Type="String">Ballistics</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapon.50calbat</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">weapon.grenade.50calbat</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/50calbat</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -303,27 +303,10 @@
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ammo.rocket</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ammo.ballistic.50calbat_ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
     <Cell ss:Index="16" ss:StyleID="s69"><Data ss:Type="String">Other</Data></Cell>
-   </Row>
-    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapon.rocket.50calbat_ammo</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/50calbat_ammo</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">weapons/misc/50calbat_ammo</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ballistic</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Boolean">0</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">75</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">36</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ammo.none</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:Index="16"><Data ss:Type="String">Rockets</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

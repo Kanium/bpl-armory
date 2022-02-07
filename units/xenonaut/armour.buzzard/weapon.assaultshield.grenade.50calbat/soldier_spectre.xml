@@ -163,15 +163,42 @@
     <anim src="units/xenonaut/armour.buzzard/weapon.assaultshield.grenade.shockbaton/vault_sw" anim="vault_DNY"/>
     <anim src="units/xenonaut/armour.buzzard/weapon.assaultshield.grenade.shockbaton/vault_se" anim="vault_DK"/>
 
-  <anim src="units/xenonaut/armour.buzzard/none/melee_w" anim="melee_NY"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_e" anim="melee_K"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_n" anim="melee_E"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_s" anim="melee_D"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_nw" anim="melee_ENY"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_ne" anim="melee_EK"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_sw" anim="melee_DNY"/>
-  <anim src="units/xenonaut/armour.buzzard/none/melee_se" anim="melee_DK"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_w" anim="hover_NY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_e" anim="hover_K"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_n" anim="hover_E"/>
+    <anim src="units/xenonaut/armour.buzzard/none/hover_s" anim="hover_D"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_nw" anim="hover_ENY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_ne" anim="hover_EK"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_sw" anim="hover_DNY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hover_se" anim="hover_DK"/>
 
-  </state>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_w" anim="prehover_NY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_e" anim="prehover_K"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_n" anim="prehover_E"/>
+    <anim src="units/xenonaut/armour.buzzard/none/prehover_s" anim="prehover_D"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_nw" anim="prehover_ENY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_ne" anim="prehover_EK"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_sw" anim="prehover_DNY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/prehover_se" anim="prehover_DK"/>
+
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_w" anim="posthover_NY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_e" anim="posthover_K"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_n" anim="posthover_E"/>
+    <anim src="units/xenonaut/armour.buzzard/none/posthover_s" anim="posthover_D"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_nw" anim="posthover_ENY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_ne" anim="posthover_EK"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_sw" anim="posthover_DNY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/posthover_se" anim="posthover_DK"/>
+
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_w" anim="hoverglow_NY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_e" anim="hoverglow_K"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_n" anim="hoverglow_E"/>
+    <anim src="units/xenonaut/armour.buzzard/none/hoverglow_s" anim="hoverglow_D"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_nw" anim="hoverglow_ENY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_ne" anim="hoverglow_EK"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_sw" anim="hoverglow_DNY"/>
+  	<anim src="units/xenonaut/armour.buzzard/none/hoverglow_se" anim="hoverglow_DK"/>
+
+	</state>
 
 </spectre>
