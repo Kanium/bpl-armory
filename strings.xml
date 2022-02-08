@@ -198,14 +198,14 @@
   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.bombrod.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Lance, Bomb:&lt;/b&gt;&#10;&#10;Made of Iron, filled with mysterious powder, and sizzling</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Lance, Bomb:&lt;/b&gt;&#10;&#10;Made of Iron, filled with mysterious powder, and sizzling.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
   <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.700express.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The 700:&lt;/b&gt;&#10;&#10;Made in England out of metal you can't afford, and wood that looks too nice to handle</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Express Rifle:&lt;/b&gt;&#10;&#10;Made in England out of metal you can't afford, and wood that looks too nice to handle.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
@@ -230,12 +230,109 @@
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
-  <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">ammo.ballistic.snowshovel</Data><NamedCell
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BeepleTech</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Snowshovel blade</Data><NamedCell
+    <Cell><Data ss:Type="String">Beeple Labs Technology</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-  </Row>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BeepleTechDesc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No more questions</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.Thompson1928</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">1928 Thompson Sub-machine gun</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.Thompson1928Desc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The Model 1928 was the first type widely used by military forces, with the U.S. Navy and U.S. Marine Corps as major buyers through the 1930s. Myah! See??</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.Dolt46</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The Dolt .46</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.Dolt46Desc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">"Best alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.Winmag</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The Winmag</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.WinmagDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">Tex made this and nobody knows why, he wont stop laughing.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.Snowshovel</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">Space Age Shovel, Black</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.SnowshovelDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">A Space age shovel made of space age black metal which is certainly not plastic painted metallic black. These cost a fortune to make.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.Bomblance</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The BPL Bomb Lance</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.BomblanceDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.700express</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The Express Rifle</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.700expressDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">Made in England out of metal you can't afford, and wood that looks too nice to handle.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.50calbat</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">.50 Bat</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.50calbatDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The eventual result of putting engineers and researchers into a stocked workshop with 6 months supply of pizza and battlepowder.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
 
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

@@ -1,0 +1,1364 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Computer 2</Author>
+  <LastAuthor>Ruth and Will</LastAuthor>
+  <Created>2012-03-29T13:18:51Z</Created>
+  <LastSaved>2015-03-03T17:07:09Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="/"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6315</WindowHeight>
+  <WindowWidth>19440</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 3">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63" ss:Name="Normal_Sheet1">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s63">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s80" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s81" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s82" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s88">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Vertical="Center"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="474" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="65.25"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="118.5"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="354"/>
+   <Column ss:AutoFitWidth="0" ss:Width="255.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="294.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="175.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Row ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Requires</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">When unlocked</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">When finished</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Knowledge shown</Data></Cell>
+   </Row>
+
+
+   <Row ss:AutoFitHeight="0" ss:Height="55.5">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.BeepleTech</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Weaponary</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">UnlockKnowledge( &quot;Researches.BeepleTech&quot; );&#10;UnlockManufacture( &quot;ManTech.Thompson1928&quot; );&#10;UnlockManufacture( &quot;ManTech.Dolt46&quot; );&#10;UnlockManufacture( &quot;ManTech.Winmag&quot; );&#10;UnlockManufacture( &quot;ManTech.Snowshovel&quot; );UnlockManufacture( &quot;ManTech.Bomblance&quot; );UnlockManufacture( &quot;ManTech.700express&quot; );UnlockManufacture( &quot;ManTech.50calbat&quot; );&#10;UnlockItem(&quot;ammo.ballistic.thompson1928&quot;);&#10;UnlockItem(&quot;ammo.ballistic.dolt46&quot;);&#10;UnlockItem(&quot;ammo.ballistic.winmag&quot;);&#10;UnlockItem(&quot;weapon.rocket.bombrod&quot;);&#10;UnlockItem(&quot;ammo.ballistic.700nitroexpress&quot;);</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Researches.BeepleTech</Data></Cell>
+   </Row>
+
+   <Row ss:Index="61">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="63">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="67">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="69">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="79">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="82">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="85">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="95">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="101">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="116">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="119">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:Index="218">
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s72"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>4</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R101C3,R218C3:R65388C3,R69C3:R76C3,R67C3,R95C3,R79C3,R82C3:R83C3,R116C3:R117C3,R119C3:R128C3,R63C3:R65C3,R85C3:R93C3,R61C3,R2C3:R6C3,R10C3:R11C3,R13C3:R49C3</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Extraterrestrials,ExtraterrestrialTech,UFOs,Weaponary,Armour,Equipment,Vehicles,Aircraft,BaseStructures&quot;</Value>
+   <ErrorMessage>Use the list to select a dategory.</ErrorMessage>
+   <ErrorTitle>Invalid value.</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R1C3</Range>
+   <ErrorMessage>Use the list to select a dategory.</ErrorMessage>
+   <ErrorTitle>Invalid value.</ErrorTitle>
+  </DataValidation>
+ </Worksheet>
+</Workbook>

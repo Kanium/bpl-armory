@@ -142,7 +142,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.ballistic.thompson1928</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -151,7 +151,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.thompson1928</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Normal</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -160,7 +160,7 @@
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.ballistic.dolt46</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -169,7 +169,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.dolt46</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Normal</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -178,7 +178,7 @@
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.ballistic.winmag</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -187,7 +187,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.winmag</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Normal</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -196,7 +196,7 @@
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.grenade.snowshovel</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -205,7 +205,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s68"><Data ss:Type="String">weapon.rocket.bombrod</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -214,7 +214,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.bomblance</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Normal</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -223,7 +223,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.ballistic.700nitroexpress</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -232,7 +232,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.700express</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Normal</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
@@ -241,7 +241,7 @@
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.grenade.50calbat</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">Unlimited</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
