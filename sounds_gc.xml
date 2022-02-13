@@ -39,5 +39,9 @@
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 50CalBat Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_50calbat_single_1.ogg</Wave>
 		</Sound>
+		<!-- Medicine Stick single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Medicine Stick Single" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_medicinestick_single_1.ogg</Wave>
+		</Sound>
 	</General>
 </Sounds>

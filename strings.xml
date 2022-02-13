@@ -230,6 +230,20 @@
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
+    <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.medicinestick</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Medicine Stick</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.medicinestick.desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Medicine Stick:&lt;/b&gt;&#10;&#10;Throughout history native shamans have carried the Medicine Stick, we found it in a museum, now you hit people over the head with it.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BeepleTech</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>

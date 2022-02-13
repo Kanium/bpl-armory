@@ -102,7 +102,24 @@
 			</Ammo>
 		</Ammos>
 	</Weapon>
-	<!-- .50 Bat 
+
+	<!-- Medicine Stick, idea: PsyDoc -->
+  	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.medicinestick" bulletType="melee" emptySound="Empty Click 1">
+  	  <props range="1000" hands="1" recoil="0" weight="2" isHeavy="0" clipSize="50" reloadAPCost="0" isMelee="1" />
+    	<SingleShot MODMERGE="insert" sound="Weapon Medicine Stick Single" delay="1" suppressionValue="25" suppressionRadius="1.5">
+     		 <Set1 ap="0" accuracy="100" />
+    	</SingleShot>
+   		<BurstFire/>
+		<GUIImage name="gui/weapons/medicinestick.png"/>
+		<GroundImage name="grounditemimages/misc_stunbaton.png"/>
+    	<Ammos>
+      		<Ammo name="ammo.energy.medicinestick_ammo" type="energy" damage="-80" stunDamage="6" mitigation="0">
+        		<Projectile/>
+        		<Impact/>
+      		</Ammo>
+    	</Ammos>
+  </Weapon>
+	<!-- .50 Bat
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.50calbat" bulletType="melee" emptySound="Empty Click 1">
 		<props range="1000" hands="1" recoil="100" weight="3" isHeavy="0" clipSize="1" isMelee="1" reloadAPCost="20" reloadSound="Weapon Stun Baton Reload" />
 		<SingleShot MODMERGE="insert" sound="Weapon 50CalBat Single" delay="1" suppressionValue="25" suppressionRadius="1.5">
@@ -118,4 +135,6 @@
 		  </Ammo>
 		</Ammos>
 	</Weapon> -->
+
+
 </Weapons>
