@@ -157,8 +157,8 @@
    <Row ss:StyleID="s67">
     <Cell><Data ss:Type="String">ManTech.Bomblance</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
-    <Cell><Data ss:Type="Number">20</Data></Cell>
-    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
     <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.bomblance&quot; );</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
@@ -167,8 +167,8 @@
    <Row ss:StyleID="s67">
     <Cell><Data ss:Type="String">ManTech.700express</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
-    <Cell><Data ss:Type="Number">20</Data></Cell>
-    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
     <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.700express&quot; );</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
