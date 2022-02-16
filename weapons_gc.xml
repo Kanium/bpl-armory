@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <Weapons>
+
 	<!-- Thompson sub-machine gun -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.thompson1928" bulletType="normal" emptySound="Empty Click 1">
 		<props range="25" hands="2" recoil="0" weight="5" isHeavy="0" clipSize="100" reloadAPCost="25" reloadSound="Weapon Machinegun Reload" reactionModifier="1" />
@@ -18,6 +19,7 @@
 			</Ammo>
 		</Ammos>
 	</Weapon>
+
 	<!-- Dolt 46 -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.dolt46" bulletType="normal" emptySound="Empty Click 1">
 		<props range="50" hands="1" recoil="0" weight="1" isHeavy="0" clipSize="7" reloadAPCost="15" reloadSound="Weapon Pistol Reload" reactionModifier="1.5" />
@@ -30,12 +32,13 @@
 		<GUIImage name="gui/weapons/dolt46.png"/>
 		<GroundImage name="grounditemimages/ballistic_pistol.png"/>
 		<Ammos>
-			<Ammo name="ammo.ballistic.dolt46" type="kinetic" damage="70" mitigation="0">
+			<Ammo name="ammo.ballistic.dolt46" type="kinetic" damage="70" mitigation="25">
 				<Projectile spectre="projectiles/bullet/bullet" speed="3000" showAfterDistance="60.0"/>
 				<Impact spectre="particles/bulletplume/bulletplume"/>
 			</Ammo>
 		</Ammos>
 	</Weapon>
+
 	<!-- Winmag -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.winmag" bulletType="normal" emptySound="Empty Click 1">
 		<props range="50" hands="2" recoil="0" weight="5" isHeavy="0" clipSize="8" reloadAPCost="15" reloadSound="Weapon Precision Rifle Reload" reactionModifier="0.5" />
@@ -48,11 +51,12 @@
 		<GroundImage name="grounditemimages/ballistic_rifle.png"/>
 		<Ammos>
 			<Ammo name="ammo.ballistic.winmag" type="kinetic" damage="256" mitigation="0">
-				<Projectile spectre="projectiles/bullet/bullet" speed="4500" showAfterDistance="60.0"/>
+				<Projectile spectre="projectiles/bullet/bullet" speed="8000" showAfterDistance="60.0"/>
 				<Impact spectre="particles/bulletplume/bulletplume"/>
 			</Ammo>
 		</Ammos>
 	</Weapon>
+
 	<!-- Tactical Snow-shovel -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.snowshovel" bulletType="melee" emptySound="Empty Click 1">
 		<props range="1000" hands="1" recoil="0" weight="2" isHeavy="0" clipSize="12" isMelee="1" reloadAPCost="20" reloadSound="Weapon Stun Baton Reload" />
@@ -63,12 +67,13 @@
 		<GUIImage name="gui/weapons/snowshovel_small.png"/>
 		<GroundImage name="grounditemimages/misc_stunbaton.png"/>
 		<Ammos>
-		  <Ammo MODMERGE="insert" name="ammo.ballistic.snowshovel" type="energy" damage="0" stunDamage="50" empDamage="10" mitigation="30">
+		  <Ammo MODMERGE="insert" name="ammo.ballistic.snowshovel" type="energy" damage="0" stunDamage="100" empDamage="10" mitigation="30">
 			<Projectile/>
 			<Impact/>
 		  </Ammo>
 		</Ammos>
 	</Weapon>
+
 	<!-- Bomb Lance -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.bomblance" bulletType="rocket" emptySound="Empty Click 1">
 		<props range="12" hands="2" recoil="100" weight="3" isHeavy="0" clipSize="1" reloadAPCost="20" reloadSound="Weapon Rocket Launcher Reload" strengthLimited="0" reactionModifier="0.5"  disableReactionFire="1" disableDamageScaling="1" />
@@ -85,18 +90,19 @@
 			</Ammo>
 		</Ammos>
 	</Weapon>
+
 	<!-- .700 Nitro Express -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.700express" bulletType="normal" emptySound="Empty Click 1">
 		<props range="60" hands="2" recoil="100" weight="5" isHeavy="0" clipSize="2" reloadAPCost="20" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
 		<SingleShot MODMERGE="insert" sound="Weapon 700express Single" delay="0.6" suppressionValue="30" suppressionRadius="1.5">
-			<Set1 ap="30" accuracy="50" />
-			<Set2 ap="60" accuracy="100" />
+			<Set1 ap="30" accuracy="70" />
+			<Set2 ap="40" accuracy="100" />
 		</SingleShot>
 		<BurstFire ap="30" accuracy="75" sound="Weapon 700express Burst" delay="0.6" burstdelay="1.0" shotCount="2" suppressionValue="70" suppressionRadius="1.5" />
 		<GUIImage name="gui/weapons/700express.png"/>
 		<GroundImage name="grounditemimages/ballistic_farmershotgun.png"/>
 		<Ammos>
-			<Ammo MODMERGE="insert" name="ammo.ballistic.700nitroexpress" type="kinetic" damage="512" mitigation="0" pelletCount="7">
+			<Ammo MODMERGE="insert" name="ammo.ballistic.700nitroexpress" type="kinetic" damage="512" mitigation="75" pelletCount="7">
 				<Projectile spectre="projectiles/bullet/bullet" speed="10000" showAfterDistance="60.0"/>
 				<Impact spectre="particles/bulletplume/bulletplume"/>
 			</Ammo>
@@ -106,35 +112,56 @@
 	<!-- Medicine Stick, idea: PsyDoc -->
   	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.medicinestick" bulletType="melee" emptySound="Empty Click 1">
   	  <props range="1000" hands="1" recoil="0" weight="2" isHeavy="0" clipSize="50" reloadAPCost="0" isMelee="1" />
-    	<SingleShot MODMERGE="insert" sound="Weapon Medicine Stick Single" delay="1" suppressionValue="25" suppressionRadius="1.5">
-     		 <Set1 ap="0" accuracy="100" />
+    	<SingleShot MODMERGE="insert" sound="Weapon Medicine Stick Single" delay="0" suppressionValue="25" suppressionRadius="1.5">
+     		 <Set1 ap="5" accuracy="100" />
+			 <Set2 ap="25" accuracy="100" />
     	</SingleShot>
    		<BurstFire/>
 		<GUIImage name="gui/weapons/medicinestick.png"/>
 		<GroundImage name="grounditemimages/misc_stunbaton.png"/>
     	<Ammos>
-      		<Ammo name="ammo.energy.medicinestick_ammo" type="energy" damage="-80" stunDamage="6" mitigation="0">
+      		<Ammo name="ammo.energy.medicinestick" type="energy" damage="-80" stunDamage="2" mitigation="25">
         		<Projectile/>
         		<Impact/>
       		</Ammo>
     	</Ammos>
-  </Weapon>
-	<!-- .50 Bat
-	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.50calbat" bulletType="melee" emptySound="Empty Click 1">
-		<props range="1000" hands="1" recoil="100" weight="3" isHeavy="0" clipSize="1" isMelee="1" reloadAPCost="20" reloadSound="Weapon Stun Baton Reload" />
-		<SingleShot MODMERGE="insert" sound="Weapon 50CalBat Single" delay="1" suppressionValue="25" suppressionRadius="1.5">
-		  <Set1 ap="30" accuracy="100" />
+    </Weapon>
+
+  	<!-- The Shotbuss -->
+  <Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.shotgunblunderbuss" bulletType="normal" emptySound="Empty Click 1">
+		<props range="4" hands="2" recoil="50" weight="3" isHeavy="0" clipSize="1" reloadAPCost="30" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
+		<SingleShot MODMERGE="insert" sound="Weapon Shotbuss Single" delay="0" suppressionValue="15" suppressionRadius="1.5">
+			<Set1 ap="10" accuracy="15" />
+			<Set2 ap="20" accuracy="25" />
+			<Set3 ap="20" accuracy="30" />
+		</SingleShot>
+		<GUIImage name="gui/weapons/shotbuss.png"/>
+		<GroundImage name="grounditemimages/ballistic_farmershotgun.png"/>
+		<Ammos>
+			<Ammo MODMERGE="insert" name="ammo.ballistic.shotbuss" type="kinetic" damage="40" mitigation="0" pelletCount="35">
+				<Projectile spectre="projectiles/bullet/bullet" speed="3000" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+
+	<!-- Battle Box -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.toolbox" bulletType="melee" emptySound="Empty Click 1">
+		<props range="1000" hands="1" recoil="0" weight="3" isHeavy="0" clipSize="100" isMelee="1" reloadAPCost="20" reloadSound="Weapon Stun Baton Reload" />
+		<SingleShot MODMERGE="insert" sound="Weapon Toolbox Single" delay="1" suppressionValue="0" suppressionRadius="1.5">
+		  <Set1 ap="20" accuracy="100" />
+		  <Set2 ap="20" accuracy="100" />
+		  <Set3 ap="20" accuracy="100" />
 		</SingleShot>
 		<BurstFire/>
-		<GUIImage name="gui/weapons/50calbat.png"/>
+		<GUIImage name="gui/weapons/toolbox.png"/>
 		<GroundImage name="grounditemimages/misc_stunbaton.png"/>
 		<Ammos>
-		  <Ammo MODMERGE="insert" name="ammo.ballistic.50calbat_ammo" type="kinetic" damage="128" mitigation="30" isOverdamage="1">
+		  <Ammo MODMERGE="insert" name="ammo.ballistic.toolbox" type="kinetic" damage="128" stunDamage="" empDamage="" mitigation="50">
 			<Projectile/>
-			<Impact spectre="particles/explosion/explosion" radius="4" sound="Weapon Frag Grenade" fireChance="90" smokeChance="90" gasType="GrenadeFragSmoke" />
+			<Impact/>
 		  </Ammo>
 		</Ammos>
-	</Weapon> -->
-
+	</Weapon>
 
 </Weapons>

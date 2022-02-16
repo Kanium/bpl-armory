@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <Sounds>
 	<General>
+
 		<!-- Thompson 1928 single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_thompson1928_single_1.ogg</Wave>
@@ -9,10 +10,12 @@
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Burst" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_thompson1928_burst_1.ogg</Wave>
 		</Sound>
+
 		<!-- Winmag single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Winmag Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_winmag_single_1.ogg</Wave>
 		</Sound>
+
 		<!-- Dolt 46 single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_dolt46_single_1.ogg</Wave>
@@ -22,11 +25,13 @@
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Burst" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_dolt46_burst_1.ogg</Wave>
 		</Sound>
+
 		<!-- Tactical Snowshovel single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Snowshovel Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_snowshovel_single_1.ogg</Wave>
 			<Wave>audio/sfx/weapons/weapon_snowshovel_single_2.ogg</Wave>
 		</Sound>
+
         <!-- The Express single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700express Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_theexpress_single_1.ogg</Wave>
@@ -35,13 +40,21 @@
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700express Burst" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_theexpress_burst_1.ogg</Wave>
 		</Sound>
-		<!-- .50 Bat single shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 50CalBat Single" volume="2.0" group="1" comment="">
-			<Wave>audio/sfx/weapons/weapon_50calbat_single_1.ogg</Wave>
-		</Sound>
+
 		<!-- Medicine Stick single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Medicine Stick Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_medicinestick_single_1.ogg</Wave>
 		</Sound>
+
+		<!-- The Shotbuss single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Shotbuss Single" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_shotbuss_single_1.ogg</Wave>
+		</Sound>
+
+		<!-- Battle Box single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Toolbox Single" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_toolbox_single_1.ogg</Wave>
+		</Sound>
+
 	</General>
 </Sounds>

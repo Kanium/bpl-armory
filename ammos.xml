@@ -35,16 +35,23 @@
         <slotsizey>1</slotsizey>
         <weight>1</weight>
     </Ammo>
-    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.50calbat_ammo">
-        <stockTextureName>weapons/ballistic/50calbat_ammo</stockTextureName>
-        <dragTextureName>weapons/ballistic/50calbat_ammo</dragTextureName>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.toolbox">
+        <stockTextureName>weapons/ballistic/toolbox_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/toolbox_ammo</dragTextureName>
         <slotsizex>1</slotsizex>
         <slotsizey>1</slotsizey>
         <weight>1</weight>
     </Ammo>
-    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.energy.medicinestick_ammo">
-        <stockTextureName>weapons/ballistic/50calbat_ammo</stockTextureName>
-        <dragTextureName>weapons/ballistic/50calbat_ammo</dragTextureName>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.energy.medicinestick">
+        <stockTextureName>weapons/ballistic/medicinestick_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/medicinestick_ammo</dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.shotbuss">
+        <stockTextureName>weapons/ballistic/shotbuss_ammo</stockTextureName>
+        <dragTextureName>weapons/ballistic/shotbuss_ammo</dragTextureName>
         <slotsizex>1</slotsizex>
         <slotsizey>1</slotsizey>
         <weight>1</weight>

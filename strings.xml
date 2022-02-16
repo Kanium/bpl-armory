@@ -216,20 +216,6 @@
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.50calbat</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">.50 Bat</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.50calbat.desc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;.50 Bat:&lt;/b&gt;&#10;&#10;The eventual result of putting engineers and researchers into a stocked workshop with 6 months supply of pizza and battlepowder.</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-
     <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.medicinestick</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -240,7 +226,35 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.medicinestick.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Medicine Stick:&lt;/b&gt;&#10;&#10;Throughout history native shamans have carried the Medicine Stick, we found it in a museum, now you hit people over the head with it.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Medicine Stick:&lt;/b&gt;&#10;&#10;"It heals you Good(tm)." - Dr. Psydoc, Research Director of Project GoodStick</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.shotgunblunderbuss</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">The Shotbuss</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.shotgunblunderbuss.desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Shotbuss:&lt;/b&gt;&#10;&#10;Here at Beeple Labs we give history a second chance with The Shotbuss, less barrel contraints means better shot-coverage and higher quality jimmie-rustling, proven by Science.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+    <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.toolbox</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Battle Box</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.toolbox.desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Battle Box:&lt;/b&gt;&#10;&#10;This may look, smell, taste and rattle exactly like a heavily laden and Robust(tm) toolbox, but it is in fact a precision-made tool of battle and contains carefully calibrated tool-derivatives made of plutonium.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -336,15 +350,41 @@
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.50calbat</Data><NamedCell     
+   <Cell><Data ss:Type﻿="String">ManTech.medicinestick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">.50 Bat</Data><NamedCell     
+   <Cell><Data ss:Type="String">Medicine Stick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type="String">ManTech.50calbatDesc</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.medicinestickDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>
+   <Cell><Data ss:Type="String">"Throughout history various native shamans have carried Medicine Sticks as important, albeit fairly inexpensive, holy relics involved in healing rituals. Today the shamans are dead and the national museum needed cash. We upgraded the sticks with authentic Beeple Technology, surrounding each of them in a heat treated, protective and aerodynamic space-metal shell with added enhanced space-grip comfort. The source of the ancient stick-magic has been precisely located and has been further enhanced with a patented integrated impact-triggered space-needle-injection system. Very probably no long term consequences. It heals you good(tm)." - Dr. Psydoc, Research Director of Project GoodStick </Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.shotgunblunderbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">The eventual result of putting engineers and researchers into a stocked workshop with 6 months supply of pizza and battlepowder.</Data><NamedCell     
+   <Cell><Data ss:Type="String">The Shotbuss</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.shotgunblunderbussDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">Here at Beeple Labs we give history a second chance with The Shotbuss, less barrel contraints means better shot-coverage and higher quality jimmie-rustling, proven by Science.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type﻿="String">ManTech.toolbox</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">Battle Box</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.toolboxDesc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">This may look, smell, taste and rattle exactly like a heavily laden and Robust(tm) toolbox, but it is in fact a precision-made tool of battle and contains carefully calibrated tool-derivatives made of plutonium.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
 
