@@ -112,7 +112,7 @@
 	<!-- Medicine Stick, idea: PsyDoc -->
   	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.grenade.medicinestick" bulletType="melee" emptySound="Empty Click 1">
   	  <props range="1000" hands="1" recoil="0" weight="2" isHeavy="0" clipSize="50" reloadAPCost="0" isMelee="1" />
-    	<SingleShot MODMERGE="insert" sound="Weapon Medicine Stick Single" delay="0" suppressionValue="25" suppressionRadius="1.5">
+    	<SingleShot MODMERGE="insert" sound="Weapon Medicine Stick Single" delay="0.2" suppressionValue="25" suppressionRadius="1.5">
      		 <Set1 ap="5" accuracy="100" />
 			 <Set2 ap="25" accuracy="100" />
     	</SingleShot>
@@ -129,8 +129,8 @@
 
   	<!-- The Shotbuss -->
   <Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.shotgunblunderbuss" bulletType="normal" emptySound="Empty Click 1">
-		<props range="4" hands="2" recoil="50" weight="3" isHeavy="0" clipSize="1" reloadAPCost="30" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
-		<SingleShot MODMERGE="insert" sound="Weapon Shotbuss Single" delay="0" suppressionValue="15" suppressionRadius="1.5">
+		<props range="50" hands="2" recoil="50" weight="3" isHeavy="0" clipSize="1" reloadAPCost="20" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
+		<SingleShot MODMERGE="insert" sound="Weapon Shotbuss Single" delay="0.2" suppressionValue="15" suppressionRadius="1.5">
 			<Set1 ap="10" accuracy="15" />
 			<Set2 ap="20" accuracy="25" />
 			<Set3 ap="20" accuracy="30" />

@@ -350,39 +350,39 @@
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.medicinestick</Data><NamedCell     
+   <Cell><Data ss:Type﻿="String">ManTech.Medicinestick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">Medicine Stick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type="String">ManTech.medicinestickDesc</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.MedicinestickDesc</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>
    <Cell><Data ss:Type="String">"Throughout history various native shamans have carried Medicine Sticks as important, albeit fairly inexpensive, holy relics involved in healing rituals. Today the shamans are dead and the national museum needed cash. We upgraded the sticks with authentic Beeple Technology, surrounding each of them in a heat treated, protective and aerodynamic space-metal shell with added enhanced space-grip comfort. The source of the ancient stick-magic has been precisely located and has been further enhanced with a patented integrated impact-triggered space-needle-injection system. Very probably no long term consequences. It heals you good(tm)." - Dr. Psydoc, Research Director of Project GoodStick </Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.shotgunblunderbuss</Data><NamedCell     
+   <Cell><Data ss:Type﻿="String">ManTech.Shotbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">The Shotbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type="String">ManTech.shotgunblunderbussDesc</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.ShotbussDesc</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">Here at Beeple Labs we give history a second chance with The Shotbuss, less barrel contraints means better shot-coverage and higher quality jimmie-rustling, proven by Science.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.toolbox</Data><NamedCell     
+   <Cell><Data ss:Type﻿="String">ManTech.Battlebox</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">Battle Box</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type="String">ManTech.toolboxDesc</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.BattleboxDesc</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">This may look, smell, taste and rattle exactly like a heavily laden and Robust(tm) toolbox, but it is in fact a precision-made tool of battle and contains carefully calibrated tool-derivatives made of plutonium.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  

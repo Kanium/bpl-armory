@@ -175,11 +175,31 @@
    </Row>
 
    <Row ss:StyleID="s67">
-    <Cell><Data ss:Type="String">ManTech.50calbat</Data></Cell>
+    <Cell><Data ss:Type="String">ManTech.Medicinestick</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
     <Cell><Data ss:Type="Number">20</Data></Cell>
     <Cell><Data ss:Type="Number">10000</Data></Cell>
-    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.grenade.50calbat&quot; );</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.grenade.medicinestick&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Shotbuss</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.shotgunblunderbuss&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Battlebox</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.toolbox&quot; );</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>

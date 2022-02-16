@@ -222,11 +222,11 @@
 
    <Row ss:AutoFitHeight="0" ss:Height="55.5">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.BeepleTech</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">20</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Weaponary</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String"></Data></Cell>
     <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">UnlockKnowledge( &quot;Researches.BeepleTech&quot; );&#10;UnlockManufacture( &quot;ManTech.Thompson1928&quot; );&#10;UnlockManufacture( &quot;ManTech.Dolt46&quot; );&#10;UnlockManufacture( &quot;ManTech.Winmag&quot; );&#10;UnlockManufacture( &quot;ManTech.Snowshovel&quot; );UnlockManufacture( &quot;ManTech.Bomblance&quot; );UnlockManufacture( &quot;ManTech.700express&quot; );&#10;UnlockItem(&quot;ammo.ballistic.thompson1928&quot;);&#10;UnlockItem(&quot;ammo.ballistic.dolt46&quot;);&#10;UnlockItem(&quot;ammo.ballistic.winmag&quot;);&#10;UnlockItem(&quot;weapon.rocket.bombrod&quot;);&#10;UnlockItem(&quot;ammo.ballistic.700nitroexpress&quot;);</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">UnlockKnowledge( &quot;Researches.BeepleTech&quot; );&#10;UnlockManufacture( &quot;ManTech.Thompson1928&quot; );&#10;UnlockManufacture( &quot;ManTech.Dolt46&quot; );&#10;UnlockManufacture( &quot;ManTech.Winmag&quot; );&#10;UnlockManufacture( &quot;ManTech.Snowshovel&quot; );UnlockManufacture( &quot;ManTech.Bomblance&quot; );UnlockManufacture( &quot;ManTech.700express&quot; );UnlockManufacture( &quot;ManTech.Medicinestick&quot; );UnlockManufacture( &quot;ManTech.Shotbuss&quot; );UnlockManufacture( &quot;ManTech.Battlebox&quot; );&#10;UnlockItem(&quot;ammo.ballistic.thompson1928&quot;);&#10;UnlockItem(&quot;ammo.ballistic.dolt46&quot;);&#10;UnlockItem(&quot;ammo.ballistic.winmag&quot;);&#10;UnlockItem(&quot;weapon.rocket.bombrod&quot;);&#10;UnlockItem(&quot;ammo.ballistic.700nitroexpress&quot;);&#10;UnlockItem(&quot;ammo.ballistic.shotbuss&quot;);</Data></Cell>
     <Cell ss:StyleID="s76"><Data ss:Type="String">Researches.BeepleTech</Data></Cell>
    </Row>
 
