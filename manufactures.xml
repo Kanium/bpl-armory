@@ -199,7 +199,7 @@
     <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
     <Cell><Data ss:Type="Number">20</Data></Cell>
     <Cell><Data ss:Type="Number">10000</Data></Cell>
-    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.toolbox&quot; );</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.grenade.toolbox&quot; );</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>

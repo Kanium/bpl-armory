@@ -130,7 +130,7 @@
   	<!-- The Shotbuss -->
   <Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.shotgunblunderbuss" bulletType="normal" emptySound="Empty Click 1">
 		<props range="50" hands="2" recoil="50" weight="3" isHeavy="0" clipSize="1" reloadAPCost="20" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
-		<SingleShot MODMERGE="insert" sound="Weapon Shotbuss Single" delay="0.2" suppressionValue="15" suppressionRadius="1.5">
+		<SingleShot MODMERGE="insert" sound="Weapon Shotbuss Single" delay="0.6" suppressionValue="15" suppressionRadius="1.5">
 			<Set1 ap="10" accuracy="15" />
 			<Set2 ap="20" accuracy="25" />
 			<Set3 ap="20" accuracy="30" />
