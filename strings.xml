@@ -107,7 +107,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.thompson1928.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;1928 Thompson:&lt;/b&gt;&#10;&#10;The Model 1928 was the first type widely used by military forces, with the U.S. Navy and U.S. Marine Corps as major buyers through the 1930s. Myah! See??</Data><NamedCell
+   <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;1928 Thompson:&lt;/b&gt;&#10;&#10;The Model 1928 was the first type widely used by military forces, with the U.S. Navy and U.S. Marine Corps as major buyers through the 1930s. Myah! See??&#10;&#10;Range:                                                    25&#10;Damage:                                                 20 Kinetic&#10;Suppression:                                           30 Single / 200 Burst&#10;Mitigation:                                                0&#10;Ammo Capacity:                                     100 rounds&#10;Reaction Modifier:                                   1x&#10;Reload Cost:                                           25 TU&#10;&#10;Fire Modes:&#10;- 28%% TU                                                 40 Acc x 1 shot&#10;- 60%% TU                                                 70 Acc x 1 shot&#10;- 60%% TU                                                 70 Acc x 1 shot&#10;&#10;- 38%% TU                                                 45 Acc x 25 shots</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
@@ -127,7 +127,7 @@
   <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.dolt46.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Dolt 46:&lt;/b&gt;&#10;&#10;"Best alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Dolt 46:&lt;/b&gt;&#10;&#10;"Best alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.&#10;&#10;Range:                                                    50&#10;Damage:                                                 70 Kinetic&#10;Suppression:                                           50 Single / 70 Burst&#10;Mitigation:                                                25&#10;Ammo Capacity:                                     7 shots&#10;Reaction Modifier:                                   1.5x&#10;Reload Cost:                                           15 TU&#10;&#10;Fire Modes:&#10;- 15%% TU                                                 100 Acc x 1 shot&#10;- 30%% TU                                                 200 Acc x 1 shot&#10;- 30%% TU                                                 300 Acc x 1 shot&#10;&#10;- 30%% TU                                                 75 Acc x 3 shots</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
@@ -142,7 +142,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.winmag.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Winmag:&lt;/b&gt;&#10;&#10;Tex made this and nobody knows why, he wont stop laughing.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Winmag:&lt;/b&gt;&#10;&#10;Tex made this and nobody knows why, he wont stop laughing.&#10;&#10;Range:                                                    50&#10;Damage:                                                 256 Kinetic&#10;Suppression:                                           50 Suppression&#10;Mitigation:                                                0&#10;Ammo Capacity:                                     8 shots&#10;Reaction Modifier:                                   0.5x&#10;Reload Cost:                                           15 TU&#10;&#10;Fire Modes:&#10;- 15%% TU                                                 100 Acc x 1 shot&#10;- 30%% TU                                                 200 Acc x 1 shot&#10;- 30%% TU                                                 300 Acc x 1 shot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
@@ -163,7 +163,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.snowshovel.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Space Age Shovel, Black:&lt;/b&gt;&#10;&#10;A Space age shovel made of space age black metal which is certainly not plastic painted metallic black. These cost a fortune to make.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Space Age Shovel, Black:&lt;/b&gt;&#10;&#10;A Space age shovel made of space age black metal which is certainly not plastic painted metallic black. These cost a fortune to make.&#10;&#10;Range:                                                    Melee&#10;Stun Damage:                                        100 Stun&#10;EMP Damage:                                        10 EMP&#10;Mitigation:                                                30&#10;Ammo Capacity:                                     12 hits&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 30%% TU                                                 100 Acc x 1 hit</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -184,7 +184,7 @@
   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.bomblance.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The BPL Bomb Lance:&lt;/b&gt;&#10;&#10;"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The BPL Bomb Lance:&lt;/b&gt;&#10;&#10;"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex&#10;&#10;Range:                                                    12&#10;Damage:                                                 95&#10;Suppression:                                           100&#10;Ammo Capacity:                                     1 Lance, Bomb&#10;Reaction Modifier:                                   N/A (no reaction fire)&#10;Recoil:                                                     100 Recoil&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 30%% TU                                                50 Acc x 1 shot&#10;- 60%% TU                                               100 Acc x 1 shot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -198,14 +198,14 @@
   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.rocket.bombrod.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Lance, Bomb:&lt;/b&gt;&#10;&#10;Made of Iron, filled with mysterious powder, and sizzling.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Lance, Bomb:&lt;/b&gt;&#10;&#10;Made of Iron, filled with mysterious powder, and sizzling.&#10;&#10;Damage:                                                       95&#10;Blast Radius:                                                4 Tiles&#10;Fire Chance:                                                 90%%</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
   <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.700express.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Express Rifle:&lt;/b&gt;&#10;&#10;Made in England out of metal you can't afford, and wood that looks too nice to handle.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Express Rifle:&lt;/b&gt;&#10;&#10;Made in England out of metal you can't afford, and wood that looks too nice to handle.&#10;&#10;Range:                                                    60&#10;Damage:                                                 512 Kinetic (7 pellets)&#10;Suppression:                                           30 Single / 70 Burst&#10;Mitigation:                                                75&#10;Ammo Capacity:                                     2 shots&#10;Reaction Modifier:                                   1x&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 30%% TU                                                 70 Acc x 1 shot&#10;- 40%% TU                                               100 Acc x 2 shots</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
@@ -226,7 +226,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.medicinestick.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Medicine Stick:&lt;/b&gt;&#10;&#10;"It heals you Good(tm)." - Dr. Psydoc, Research Director of Project GoodStick</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Medicine Stick:&lt;/b&gt;&#10;&#10;"It heals you Good(tm)." - Dr. Psydoc, Research Director of Project GoodStick&#10;&#10;Range:                                                    Melee&#10;Damage:                                                 -80 Energy&#10;Stun Damage:                                         2 Stun&#10;Mitigation:                                                25&#10;Ammo Capacity:                                     50 Health&#10;Reload Cost:                                           0 TU&#10;&#10;Fire Modes:&#10;- 5%% TU                                                 100 Acc x 1 hit&#10;- 25%% TU                                                100 Acc x 1 hit</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -240,7 +240,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.shotgunblunderbuss.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Shotbuss:&lt;/b&gt;&#10;&#10;Here at Beeple Labs we give history a second chance with The Shotbuss, less barrel contraints means better shot-coverage and higher quality jimmie-rustling, proven by Science.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The Shotbuss:&lt;/b&gt;&#10;&#10;Here at Beeple Labs we give history a second chance with The Shotbuss, less barrel contraints means better shot-coverage and higher quality jimmie-rustling, proven by Science.&#10;&#10;Range:                                                    50&#10;Damage:                                                 40 Kinetic (35 pellets)&#10;Suppression:                                           15 Suppression&#10;Mitigation:                                                0&#10;Ammo Capacity:                                     1 shot&#10;Reaction Modifier:                                   1x&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 10%% TU                                                 15 Acc x 1 shot&#10;- 20%% TU                                                 25 Acc x 1 shot&#10;- 20%% TU                                                 30 Acc x 1 shot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -254,7 +254,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.grenade.toolbox.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Battle Box:&lt;/b&gt;&#10;&#10;This may look, smell, taste and rattle exactly like a heavily laden and Robust(tm) toolbox, but it is in fact a precision-made tool of battle and contains carefully calibrated tool-derivatives made of plutonium.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Battle Box:&lt;/b&gt;&#10;&#10;This may look, smell, taste and rattle exactly like a heavily laden and Robust(tm) toolbox, but it is in fact a precision-made tool of battle and contains carefully calibrated tool-derivatives made of plutonium.&#10;&#10;Range:                                                    Melee&#10;Damage:                                                 128 Kinetic&#10;Mitigation:                                                50&#10;Ammo Capacity:                                     100 hits&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 20%% TU                                                 100 Acc x 1 hit</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -272,7 +272,7 @@
    </Row>
 
    <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Thompson1928</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Thompson1928</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">1928 Thompson Sub-machine gun</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
@@ -285,9 +285,9 @@
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Dolt46</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Dolt46</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">The Dolt .46</Data><NamedCell     
+   <Cell><Data ss:Type="String">Dolt .46</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -298,9 +298,9 @@
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Winmag</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Winmag</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">The Winmag</Data><NamedCell     
+   <Cell><Data ss:Type="String">Win. Mag.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -311,7 +311,7 @@
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Snowshovel</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Snowshovel</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">Space Age Shovel, Black</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
@@ -324,9 +324,9 @@
    </Row>
 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Bomblance</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Bomblance</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">The BPL Bomb Lance</Data><NamedCell     
+   <Cell><Data ss:Type="String">Bomb Lance</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -335,11 +335,11 @@
    <Cell><Data ss:Type="String">"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
-
+ 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.700express</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.700express</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">The Express Rifle</Data><NamedCell     
+   <Cell><Data ss:Type="String">Express Rifle</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -348,9 +348,9 @@
    <Cell><Data ss:Type="String">Made in England out of metal you can't afford, and wood that looks too nice to handle.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
-
+ 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Medicinestick</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Medicinestick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">Medicine Stick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
@@ -361,11 +361,11 @@
    <Cell><Data ss:Type="String">"Throughout history various native shamans have carried Medicine Sticks as important, albeit fairly inexpensive, holy relics involved in healing rituals. Today the shamans are dead and the national museum needed cash. We upgraded the sticks with authentic Beeple Technology, surrounding each of them in a heat treated, protective and aerodynamic space-metal shell with added enhanced space-grip comfort. The source of the ancient stick-magic has been precisely located and has been further enhanced with a patented integrated impact-triggered space-needle-injection system. Very probably no long term consequences. It heals you good(tm)." - Dr. Psydoc, Research Director of Project GoodStick </Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
-
+ 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Shotbuss</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Shotbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">The Shotbuss</Data><NamedCell     
+   <Cell><Data ss:Type="String">Shotbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -374,9 +374,9 @@
    <Cell><Data ss:Type="String">Here at Beeple Labs we give history a second chance with The Shotbuss, less barrel contraints means better shot-coverage and higher quality jimmie-rustling, proven by Science.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
-
+ 
   <Row ss:AutoFitHeight="0">   
-   <Cell><Data ss:Type﻿="String">ManTech.Battlebox</Data><NamedCell     
+   <Cell><Data ss:Type="String">ManTech.Battlebox</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
    <Cell><Data ss:Type="String">Battle Box</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
