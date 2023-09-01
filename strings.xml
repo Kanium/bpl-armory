@@ -287,7 +287,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Dolt46</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Dolt .46</Data><NamedCell     
+   <Cell><Data ss:Type="String">Dolt .46</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -300,7 +300,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Winmag</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Win. Mag.</Data><NamedCell     
+   <Cell><Data ss:Type="String">Win. Mag.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -313,7 +313,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Snowshovel</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Space Age Shovel, Black</Data><NamedCell     
+   <Cell><Data ss:Type="String">Space Age Shovel, Black</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -326,7 +326,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Bomblance</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Bomb Lance</Data><NamedCell     
+   <Cell><Data ss:Type="String">Bomb Lance</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -339,7 +339,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.700express</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Express Rifle</Data><NamedCell     
+   <Cell><Data ss:Type="String">Express Rifle</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -352,7 +352,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Medicinestick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Medicine Stick</Data><NamedCell     
+   <Cell><Data ss:Type="String">Medicine Stick</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -365,7 +365,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Shotbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Shotbuss</Data><NamedCell     
+   <Cell><Data ss:Type="String">Shotbuss</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
@@ -378,7 +378,7 @@
   <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Battlebox</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>   
-   <Cell><Data ss:Type="String">BPL Battle Box</Data><NamedCell     
+   <Cell><Data ss:Type="String">Battle Box</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>  
    <Row ss:AutoFitHeight="0">   
