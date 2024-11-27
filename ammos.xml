@@ -55,5 +55,41 @@
         <slotsizex>1</slotsizex>
         <slotsizey>1</slotsizey>
         <weight>1</weight>
+    </Ammo>    
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.laser.thompson2028tcbpack">
+        <stockTextureName></stockTextureName>
+        <dragTextureName></dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
     </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.laser.lasermag4600mfrcell">
+        <stockTextureName></stockTextureName>
+        <dragTextureName></dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.laser.dolt64clbmagazine">
+        <stockTextureName></stockTextureName>
+        <dragTextureName></dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.laser.700nanoexpressbplcore">
+        <stockTextureName></stockTextureName>
+        <dragTextureName></dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.laser.laserbussmrpack">
+        <stockTextureName></stockTextureName>
+        <dragTextureName></dragTextureName>
+        <slotsizex>1</slotsizex>
+        <slotsizey>1</slotsizey>
+        <weight>1</weight>
+    </Ammo>
+
 </Ammos>

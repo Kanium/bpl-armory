@@ -204,6 +204,56 @@
     <Cell ss:StyleID="s68"/>
    </Row>
 
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Thompson2028</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.thompson2028&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Dolt64</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.dolt64&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Lasermag4600</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.lasermag4600&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.700expressnano</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.700expressnano&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Laserbuss</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.laserbuss&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Print>

@@ -230,6 +230,17 @@
     <Cell ss:StyleID="s76"><Data ss:Type="String">Researches.BeepleTech</Data></Cell>
    </Row>
 
+   <Row ss:AutoFitHeight="0" ss:Height="55.5">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.BeepleTech1983</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Weaponary</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">UnlockKnowledge( &quot;Researches.BeepleTech1983&quot; );&#10;UnlockManufacture( &quot;ManTech.Thompson2028&quot; );&#10;UnlockManufacture( &quot;ManTech.Dolt64&quot; );&#10;UnlockManufacture( &quot;ManTech.Lasermag4600&quot; );&#10;UnlockManufacture( &quot;ManTech.700nanoexpress&quot; );&quot;UnlockManufacture( &quot;ManTech.Laserbuss&quot; );&#10;UnlockItem(&quot;ammo.laser.thompson2028tcbcell&quot;);&#10;UnlockItem(&quot;ammo.laser.laserdolt46clbmagazine&quot;);&#10;UnlockItem(&quot;ammo.laser.lasermag4600mfrcell&quot;);&#10;UnlockItem(&quot;ammo.laser.700nanoexpressbplcore&quot;);&#10;UnlockItem(&quot;ammo.laser.laserbussmrpack&quot;);</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Researches.BeepleTech1983</Data></Cell>
+   </Row>
+
+
    <Row ss:Index="61">
     <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="s72"/>
