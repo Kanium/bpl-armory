@@ -32,7 +32,7 @@
 			<Wave>audio/sfx/weapons/weapon_snowshovel_single_2.ogg</Wave>
 		</Sound>
 
-                <!-- The Express single shot -->
+        <!-- The Express single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700express Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_theexpress_single_1.ogg</Wave>
 		</Sound>
@@ -62,16 +62,16 @@
 		</Sound>
 
 		<!-- Lasermag 4600 single fire -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Lasermag 4600" volume="2.0" group="1" comment="">
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Lasermag 4600 Single" volume="2.0" group="1" comment="">
 			<Wave></Wave>
 		</Sound>
 
-		<!-- Dolt 46 single shot -->
+		<!-- Dolt 64 single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt64 Single" volume="2.0" group="1" comment="">
 			<Wave></Wave>
 
 		</Sound>
-		<!-- Dolt 46 burst shot -->
+		<!-- Dolt 64 burst shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt64 Burst" volume="2.0" group="1" comment="">
 			<Wave></Wave>
 		</Sound>
