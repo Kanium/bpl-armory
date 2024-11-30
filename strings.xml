@@ -97,6 +97,7 @@
    <Column ss:AutoFitWidth="0" ss:Width="246"/>
    <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
   
+  <!-- BPL Armory Mod Strings BEGIN -->
   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.thompson1928</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -117,7 +118,8 @@
     <Cell><Data ss:Type="String">1928 Thompson Drum Magazine</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
-    <Row ss:AutoFitHeight="0">
+
+  <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.dolt46</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Dolt 46</Data><NamedCell
@@ -184,7 +186,7 @@
   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s67"><Data ss:Type="String">weapon.bomblance.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The BPL Bomb Lance:&lt;/b&gt;&#10;&#10;"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex&#10;&#10;Range:                                                    12&#10;Damage:                                                 95&#10;Suppression:                                           100&#10;Ammo Capacity:                                     1 Lance, Bomb&#10;Reaction Modifier:                                   N/A (no reaction fire)&#10;Recoil:                                                     100 Recoil&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 30%% TU                                                50 Acc x 1 shot&#10;- 60%% TU                                               100 Acc x 1 shot</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;The BPL Bomb Lance:&lt;/b&gt;&#10;&#10;"It will kill whales. It has killed whales. Are aliens tougher than whales? - Tex"&#10;&#10;Range:                                                    12&#10;Damage:                                                 95&#10;Suppression:                                           100&#10;Ammo Capacity:                                     1 Lance, Bomb&#10;Reaction Modifier:                                   N/A (no reaction fire)&#10;Recoil:                                                     100 Recoil&#10;Reload Cost:                                           20 TU&#10;&#10;Fire Modes:&#10;- 30%% TU                                                50 Acc x 1 shot&#10;- 60%% TU                                               100 Acc x 1 shot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
 
@@ -270,6 +272,63 @@
     <Cell ss:StyleID="s68"><Data ss:Type="String">No more questions</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
+
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BeepleTech1983</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Beeple Labs Totally-Not-Laser Initiative</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+
+<Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BeepleTech1983Desc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Very laser-like, similar to—but legally distinct from—lasers. Fortified with laser vitamins for extra zap. Side effects may include glowing teeth. Don't ask questions.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+</Row>
+
+     <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">weapon.thompson2028</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2028 Thompson</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+  </Row>    
+
+<Row ss:AutoFitHeight="0" ss:Height="285">
+    <Cell>
+        <Data ss:Type="String">weapon.thompson2028.desc</Data>
+        <NamedCell ss:Name="_FilterDatabase"/>
+    </Cell>
+    <Cell ss:StyleID="s68">
+        <Data ss:Type="String">
+            &lt;font face=&quot;fonts/arial.mvec&quot;&gt;&lt;b&gt;2028 Thompson:&lt;/b&gt;&#10;&#10;
+            "You ever slap a car battery onto a submachine gun and just *feel* destiny calling? This thing’s got lasers,&#10;
+            exposed wiring, and a mild chance of radiation poisoning—don’t ask where I got the uranium tape.&#10;
+            Just trust me, it works. Most of the time. Wear gloves." – Jeff the intern&#10;&#10;
+            Introducing: The 2028 Thompson. This modern ELECTRIC Thompson is the culmination of cocaine, sunglasses,&#10;
+            and an 80s montage sequence. It has modern-day improv(e)-ments(tm) that include industrial laser components&#10;
+            and an energy source that might void a few safety regulations. Don't worry about it.&#10;&#10;
+            Range: 25&#10;
+            Damage: 30 Laser&#10;
+            Suppression: 200 Burst&#10;
+            Mitigation: 0&#10;
+            Ammo Capacity: 200 rounds&#10;
+            Reaction Modifier: 1x&#10;
+            Reload Cost: 35 TU&#10;&#10;
+            Fire Modes:&#10;
+            - 38%% TU 45 Acc x 25 shots&#10;&#10;
+            Warning: prolonged use may result in a craving for neon lights and synthwave playlists. Maybe cancer.
+        </Data>
+        <NamedCell ss:Name="_FilterDatabase"/>
+    </Cell>
+</Row>
+
+  <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ammo.laser.thompson2028tcbdrum</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2028 TCB-Drum</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+  </Row>
 
    <Row ss:AutoFitHeight="0">   
    <Cell><Data ss:Type="String">ManTech.Thompson1928</Data><NamedCell     
@@ -387,6 +446,20 @@
    <Cell><Data ss:Type="String">This may look, smell, taste and rattle exactly like a heavily laden and Robust(tm) toolbox, but it is in fact a precision-made tool of battle and contains carefully calibrated tool-derivatives made of plutonium.</Data><NamedCell     
    ss:Name="_FilterDatabase"/></Cell>  
    </Row>
+
+  <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.Thompson2028</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">2028 Thompson Sub-machine gun</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+   </Row>  
+   <Row ss:AutoFitHeight="0">   
+   <Cell><Data ss:Type="String">ManTech.Thompson2028Desc</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>   
+   <Cell><Data ss:Type="String">The 2028 Thompson: Beeple Labs masterpiece that boldly asks, "What if we put a car battery in a submachine gun?". Jeff the intern made this after we locked him in an old workshop with no windows, non-stop 80s music, a pair of pit-vipers and 5 kilograms of cocaine. It mostly works, mostly. We haven't seen Jeff since; rumor has it, that he's living in the ceiling now.</Data><NamedCell     
+   ss:Name="_FilterDatabase"/></Cell>  
+  </Row>
+  <!-- BPL Armory Mod Strings END -->
 
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

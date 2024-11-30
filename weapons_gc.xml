@@ -164,17 +164,19 @@
 		</Ammos>
 	</Weapon>
 
-	<!-- Laser Thompson sub-machine gun -->
+	<!-- Electric Thompson sub-machine gun -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.thompson2028" bulletType="normal" emptySound="Empty Click 1">
-		<props range="25" hands="2" recoil="0" weight="5" isHeavy="0" clipSize="200" reloadAPCost="25" reloadSound="Weapon Plasma Caster Reload" reactionModifier="1" />
-		<BurstFire ap="38" accuracy="55" sound="Weapon Thompson2028 Burst" delay="0.6" burstdelay="0.1" shotCount="25" suppressionValue="200" suppressionRadius="3" />
-		<GUIImage name="gui/weapons/thompson1928.png"/>
+		<props range="25" hands="2" recoil="0" weight="5" isHeavy="0" clipSize="200" reloadAPCost="35" reloadSound="Weapon Plasma Caster Reload" reactionModifier="1" />
+		<BurstFire ap="28" accuracy="65" sound="Weapon Thompson2028 Burst" delay="0.6" burstdelay="0.1" shotCount="25" suppressionValue="200" suppressionRadius="3" />
+		<GUIImage name="gui/weapons/thompson2028.png"/>
 		<GroundImage name="grounditemimages/ballistic_ak.png"/>
 		<Ammos>
-			<Ammo name="ammo.laser.thompson2028tcbcell" type="laser" damage="30" mitigation="0">
-				<Projectile spectre="projectiles/laser/laser" speed="2500" showAfterDistance="80.0"/>
+			<Ammo name="ammo.laser.thompson2028tcbdrum" type="laser" damage="30" mitigation="0">
+				<Projectile spectre="projectiles/laser/laser" speed="2700" showAfterDistance="80.0"/>
 				<Impact spectre="particles/laserexplode/laserexplode"/>
 			</Ammo>
 		</Ammos>
 	</Weapon>
+
+	
 </Weapons>

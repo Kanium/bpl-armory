@@ -58,31 +58,7 @@
 
 		<!-- Thompson 2028 burst fire -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson2028 Burst" volume="2.0" group="1" comment="">
-			<Wave></Wave>
-		</Sound>
-
-		<!-- Lasermag 4600 single fire -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Lasermag 4600 Single" volume="2.0" group="1" comment="">
-			<Wave></Wave>
-		</Sound>
-
-		<!-- Dolt 64 single shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt64 Single" volume="2.0" group="1" comment="">
-			<Wave></Wave>
-
-		</Sound>
-		<!-- Dolt 64 burst shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt64 Burst" volume="2.0" group="1" comment="">
-			<Wave></Wave>
-		</Sound>
-
-        <!-- The Express Nano single shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700expressNano Single" volume="2.0" group="1" comment="">
-			<Wave></Wave>
-		</Sound>
-		<!-- The Express Nano burst shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 700expressNano Burst" volume="2.0" group="1" comment="">
-			<Wave></Wave>
+			<Wave>audio/sfx/weapons/weapon_thompson2028_burst_1.ogg</Wave>
 		</Sound>
 	</General>
 </Sounds>

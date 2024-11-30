@@ -275,90 +275,18 @@
    </Row>
 
    <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.laser.thompson2028tcbdrum</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
+    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+
+   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.thompson2028</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.laser.thompson2028tcbcell</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.lasermag4600</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.laser.lasermag4600mfrcell</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.dolt64</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.laser.dolt64clbmagazine</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.700nanoexpress</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.laser.700nanoexpressbplcore</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">weapon.laserbuss</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
-    <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-   </Row>
-
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ammo.laser.laserbusssmrpack</Data></Cell>
-    <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s72"><Data ss:Type="String">UnlimitedOnResearch</Data></Cell>
     <Cell><Data ss:Type="String">weapons/airplane/rocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
     <Cell><Data ss:Type="Number">1</Data></Cell>
