@@ -55,5 +55,13 @@
         <slotsizex>1</slotsizex>
         <slotsizey>1</slotsizey>
         <weight>1</weight>
+    </Ammo>    
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.laser.thompson2028tcbdrum">
+        <stockTextureName>weapons/laser/thompson2028_ammo</stockTextureName>
+        <dragTextureName>weapons/laser/thompson2028_ammo</dragTextureName>
+        <slotsizex>2</slotsizex>
+        <slotsizey>2</slotsizey>
+        <weight>4</weight>
     </Ammo>
+
 </Ammos>

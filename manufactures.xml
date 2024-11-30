@@ -204,6 +204,16 @@
     <Cell ss:StyleID="s68"/>
    </Row>
 
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">ManTech.Thompson2028</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">StockItem( &quot;weapon.thompson2028&quot; );</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Print>

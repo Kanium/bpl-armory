@@ -146,6 +146,15 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">Presenting: Beeple Labs Technology - Turning out/mangling copies of historical weaponry since 1948. </Data></Cell>
    </Row>
 
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Researches.BeepleTech1983</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Beeple Labs Technology</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">xenopediaimages/BLABSTECH1983</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Xenonaut Weapons</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Presenting: Beeple Labs Technology -  Turning out/mangling copies of historical weaponry since 1948. Electric futurism edition! </Data></Cell>
+   </Row>
+
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Print>

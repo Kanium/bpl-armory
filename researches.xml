@@ -230,6 +230,21 @@
     <Cell ss:StyleID="s76"><Data ss:Type="String">Researches.BeepleTech</Data></Cell>
    </Row>
 
+<Row ss:AutoFitHeight="0" ss:Height="55.5">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.BeepleTech1983</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Weaponary</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">
+        UnlockKnowledge( &quot;Researches.BeepleTech1983&quot; );&#10;
+        UnlockManufacture( &quot;ManTech.Thompson2028&quot; );&#10;
+        UnlockItem( &quot;ammo.laser.thompson2028tcbdrum&quot; );
+    </Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Researches.BeepleTech1983</Data></Cell>
+</Row>
+
+
    <Row ss:Index="61">
     <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="s72"/>
