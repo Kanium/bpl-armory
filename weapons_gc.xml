@@ -102,8 +102,8 @@
 		<GUIImage name="gui/weapons/700express.png"/>
 		<GroundImage name="grounditemimages/ballistic_farmershotgun.png"/>
 		<Ammos>
-			<Ammo MODMERGE="insert" name="ammo.ballistic.700nitroexpress" type="kinetic" damage="512" mitigation="75" pelletCount="7">
-				<Projectile spectre="projectiles/bullet/bullet" speed="10000" showAfterDistance="60.0"/>
+			<Ammo MODMERGE="insert" name="ammo.ballistic.700nitroexpress" type="kinetic" damage="312" mitigation="75" pelletCount="7">
+				<Projectile spectre="projectiles/bullet/bullet" speed="7000" showAfterDistance="60.0"/>
 				<Impact spectre="particles/bulletplume/bulletplume"/>
 			</Ammo>
 		</Ammos>
@@ -178,5 +178,22 @@
 		</Ammos>
 	</Weapon>
 
+	<!-- .720 Nitro eXtreme Express -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.720nitroextremeexpress" bulletType="normal" emptySound="Empty Click 1">
+		<props range="60" hands="2" recoil="100" weight="5" isHeavy="0" clipSize="5" reloadAPCost="35" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
+		<SingleShot MODMERGE="insert" sound="Weapon 720nitroextremeexpress Single" delay="1.1" suppressionValue="100" suppressionRadius="2">
+			<Set1 ap="30" accuracy="70" />
+			<Set2 ap="40" accuracy="100" />
+		</SingleShot>
+		<BurstFire ap="30" accuracy="75" sound="Weapon 720nitroextremeexpress Burst" delay="1.1" burstdelay="1.0" shotCount="2" suppressionValue="150" suppressionRadius="2" />
+		<GUIImage name="gui/weapons/720nitroextremeexpress.png"/>
+		<GroundImage name="grounditemimages/ballistic_farmershotgun.png"/>
+		<Ammos>
+			<Ammo MODMERGE="insert" name="ammo.ballistic.720nitroextremeexpress" type="kinetic" damage="512" mitigation="75" pelletCount="10">
+				<Projectile spectre="projectiles/magbullet/bullet" speed="12000" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
 	
 </Weapons>
