@@ -65,5 +65,10 @@
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 720nitroextremeexpress Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_720express_single_1.ogg</Wave>
 		</Sound>
+
+		<!-- .720 Nitro eXtreme Express fire -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon 720nitroextremeexpress Burst" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_720express_burst_1.ogg</Wave>
+		</Sound>
 	</General>
 </Sounds>

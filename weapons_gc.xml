@@ -178,7 +178,7 @@
 		</Ammos>
 	</Weapon>
 
-	<!-- .720 Nitro eXtreme Express -->
+	<!-- .720 Nitro eXtreme Express, idea: PsyDoc -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.720nitroextremeexpress" bulletType="normal" emptySound="Empty Click 1">
 		<props range="60" hands="2" recoil="100" weight="5" isHeavy="0" clipSize="5" reloadAPCost="35" reloadSound="Weapon Shotgun Reload" reactionModifier="1" />
 		<SingleShot MODMERGE="insert" sound="Weapon 720nitroextremeexpress Single" delay="1.1" suppressionValue="100" suppressionRadius="2">
